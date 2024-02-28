@@ -59,8 +59,8 @@ export const ShowPasswordContainer = styled.div`
   align-items: center;
 `
 
-export const CheckBox = styled.input`/
- height: 10px;
+export const CheckBox = styled.input`
+  height: 10px;
 `
 
 export const ErrorMsg = styled.p`
