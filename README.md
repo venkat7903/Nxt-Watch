@@ -1,3 +1,9 @@
+project link - https://ytube.ccbp.tech
+
+username - raja
+
+password - raja@2021
+
 In this assignment let's build an **Nxt Watch** by applying the concepts we have learned till now.
 
 git clone to CCBP IDE - cd .. && rm -rf {codingPracticeName} && mkdir {codingPracticeName} && cd {codingPracticeName} && git clone {gir repository URL} /home/workspace/reactjs/coding-practices/{codingPracticeName}
